@@ -1,0 +1,13 @@
+inicio
+    // declarações
+    numero passos;
+    direcao lado;
+
+    // comandos
+    passos = 10;
+    lado = direita;
+    andar passos;
+    virar lado;
+    andar 5;
+    virar esquerda;
+fim

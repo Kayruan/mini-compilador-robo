@@ -1,0 +1,5 @@
+inicio
+    numero passos;
+    passos = direita;
+    andar passos;
+fim

@@ -1,0 +1,9 @@
+# Saída de compilação
+build/
+build-*/
+*.exe
+*.o
+*.obj
+
+# Editor
+.vscode/

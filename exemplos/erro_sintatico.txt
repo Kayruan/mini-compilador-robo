@@ -1,0 +1,4 @@
+inicio
+    andar 10
+    virar direita;
+fim
